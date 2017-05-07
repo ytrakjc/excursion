@@ -1,12 +1,20 @@
-h1 {
-  font-family: Verdana;
-  font-size: 50px;
-  font-weight: normal;
-  color: red;
-  text-align: center;
+body { background-color: black; }
 
-h3 {
-  color: aquamarine;
-  font-size: 16px;
-  text-align: center;
+h1, h4 { font-family: Verdana; font-size: 50px; font-weight: normal; color: white; text-align: center; }
+
+h2 { font-family: Verdana; font-size: 16px; color: aquamarine; text-align: center; }
+
+video {
+  width: 40% !important;
+  height: 30% !important;
+  margin: 0 auto;
+  display: block;
 }
+
+h3 { font-family:Verdana; font-size: 42px; font-weight: 300; color: white; text-align:center; }
+
+h4 { font-family: Verdana; font-size: 21px; color: Gray; text-align: center; }
+
+.camp { width: 70% !important; height: auto !important; margin: auto; display: block; }
+
+.phone { width: 10% !important; height: auto !important; margin: auto; display: block; }
